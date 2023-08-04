@@ -1,31 +1,67 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# PokeTrivi 😎
 
-First, run the development server:
+Pon a prueba tus conocimientos de pokemon y adivina que pokemon es el que se muestra en la imagen, tienes 4 opciones para elegir. Cada respuesta correcta sumará 10 puntos a tu **score** pero cada equivicación te restará una **vida**, responde bien 5 preguntas consecutivas y obtendrás una vida extra. **¿A cuanto podrás llegar?**
+
+
+## Herramientas de desarrollo
+
+ - Next Js
+- [PokeApi](https://pokeapi.co/)
+ - Zustand
+ - Tailwind CSS
+ - Typescript
+
+
+
+## ¿Cómo levantar el proyecto?
+
+Es sencillo, realiza un git clone del proyecto después ejecuta los siguientes comandos:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+  cd ./project-folder
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+```bash
+  npm install
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+  npm run dev
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## Authors
 
-To learn more about Next.js, take a look at the following resources:
+- [@githubpopckorn](https://github.com/githubpopckorn)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Feedback
+
+Si tienes algun feedback o recomendación puedes encontrarme en santy_lopez@live.com.ar
+
+
+## 🚀 About Me
+Full stack developer...
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+<div style="text-align:center">
+
+<h2>Tenemos un modo oscuro 😎</h2>
+<img src="./public/images/demo-1.png" width="1000"/>
+<img src="./public/images/demo-2.png" width="1000"/>
+<img src="./public/images/demo-3.png" width="1000"/>
+
+<h2>Y un modo claro 🤩</h2>
+<img src="./public/images/demo-4.png" width="1000"/>
+<img src="./public/images/demo-5.png" width="1000"/>
+
+</div>
 
 ## Deploy on Vercel
 
